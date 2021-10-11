@@ -1,32 +1,54 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub forks](https://img.shields.io/github/forks/DSC-CETB/BMI-calculator?style=social)](https://github.com/DSC-CETB/BMI-calculator/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/DSC-CETB/BMI-calculator?style=social)](https://github.com/DSC-CETB/BMI-calculator/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Spectrum-CETB/LesKollab.svg)](https://gitHub.com/Naereen/DSC-CETB/BMI-calculator/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Spectrum-CETB/LesKollab.svg)](https://gitHub.com/DSC-CETB/BMI-calculator/pull/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
-# BMI Calculator 💪
 
-## Our Goal
+# BMI Calculator Application (Cross Platform - Flutter)
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+This is a simple mobile application made using flutter to calculate the Body Mass Index value of a person irrespective of their age, height, weight and gender.mThis project is open for contribution.
+
+## Features
+<br/>
+<h4>The functionalities of the project includes: </h4>
+<ul>
+<li>Application takes input values from the user as gender, age, weight and height and accordingly displays the BMI value for the given inputs</li>
+</ul>
+
+## Notes
+
+There is a lot scope for improvement in the application. Feel free the make changes according to your own taste. Try to define a logic to calculate the BMI value of females too, because the current logic does'nt specify the BMI value for the females in a precise way.
+
+  
+## Author
+
+[RupeshMishra](https://github.com/Rupesh-1901)
+ 
+  
+## Demo
+
+Demo Video
 
 
-## What you will create
+https://user-images.githubusercontent.com/57012761/136833613-7889940b-a43f-45cc-9422-82bca3f2e7d0.mp4
 
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+## Contact
 
-## What you will learn
+You can reach us at-
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+[<img alt="Discord" src="https://cdn.discordapp.com/attachments/878682402564751401/889109868500369418/discord.png"/>](https://discord.gg/dynatWbBaP)
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## License
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+Dynamic Portfolio is licensed under the New BSD License (MIT). 
+
+
+## Dynamic Portfolio is a part of these Open Source programs
+
+![hacktober](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg)
+
+    
